@@ -1,0 +1,22 @@
+.myHeaders {
+  color: "#333";
+}
+
+.myHeaders:hover {
+  color: rgb(34, 34, 173);
+}
+.myHeaders1 {
+  opacity: 0.9;
+}
+
+.myHeaders1:hover {
+  opacity: 1;
+}
+
+.DropDown {
+  height: 40px;
+  width: 180px;
+  background-color: black;
+  border-color: palevioletred;
+  color: white;
+}
