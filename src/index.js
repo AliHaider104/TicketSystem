@@ -4,11 +4,13 @@ import "./index.css";
 import reportWebVitals from "./reportWebVitals";
 import Component from "./Component";
 import Header from "./Header";
+import Login from "./login";
+import SignUp from "./Signup";
 
 ReactDOM.render(
   <React.StrictMode>
     <Header />
-    <Component />
+    <SignUp />
   </React.StrictMode>,
   document.getElementById("root")
 );
